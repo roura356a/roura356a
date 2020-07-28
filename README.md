@@ -1,4 +1,4 @@
-## 🇪🇸 Hola :wave:
+## Hola! :wave:
 I’m [Alberto Roura](https://albertoroura.com/), a cloud computing _nerd_ from Spain currently working in Australia:koala:.
 
 
@@ -7,7 +7,10 @@ Alibaba Cloud awarded me as MVP in 2018, 2019 & 2020, becoming eventually the **
 
 
 ### :thought_balloon: Social Media
-- :bird: [Twitter](https://twitter.com/roura356a)
-- :octocat: [GitHub](https://github.com/roura356a)
-- :camera: [Instagram](https://www.instagram.com/roura356a/)
-- :office: [LinkedIn](https://www.linkedin.com/in/roura356a/)
+:bird: [Twitter](https://twitter.com/roura356a)
+
+:octocat: [GitHub](https://github.com/roura356a)
+
+:camera: [Instagram](https://www.instagram.com/roura356a/)
+
+:office: [LinkedIn](https://www.linkedin.com/in/roura356a/)
