@@ -1,16 +1,13 @@
-### Hi there 👋
+## 🇪🇸 Hola :wave:
+I’m [Alberto Roura](https://albertoroura.com/), a cloud computing _nerd_ from Spain currently working in Australia:koala:.
 
-<!--
-**roura356a/roura356a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### :cloud: Alibaba Cloud
+Alibaba Cloud awarded me as MVP in 2018, 2019 & 2020, becoming eventually the **#1** MVP globally. Do you need help? I provide Training/Consulting services through [Roopu Cloud](https://roopu.cloud/), a company I co-founded. If you want to learn how to start deploying in China or need a hand on using Alibaba Cloud, I can help with general consulting, cloud migrations, solutions architecting, health checks and custom reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### :thought_balloon: Social Media
+- :bird: [Twitter](https://twitter.com/roura356a)
+- :octocat: [GitHub](https://github.com/roura356a)
+- :camera: [Instagram](https://www.instagram.com/roura356a/)
+- :office: [LinkedIn](https://www.linkedin.com/in/roura356a/)
