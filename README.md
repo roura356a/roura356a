@@ -1,4 +1,4 @@
-## Hola! :wave:
+## ¡Hola! :wave:
 I’m [Alberto Roura](https://albertoroura.com/), a cloud computing _nerd_ from Spain currently working in Australia:koala:.
 
 
