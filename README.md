@@ -1,5 +1,5 @@
 ## ¡Hola! :wave:
-I’m [Alberto Roura](https://albertoroura.com/), a cloud computing _nerd_ from Spain currently working in Australia:koala:.
+I’m [Alberto Roura](https://albertoroura.com/), a cloud computing _nerd_ from Spain specialised in all things “_China IT_”
 
 
 ### :cloud: Alibaba Cloud
