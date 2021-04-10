@@ -1,9 +1,11 @@
 ## ¡Hola! :wave:
-I’m [Alberto Roura](https://albertoroura.com/), a cloud computing _nerd_ from Spain specialised in all things “_China Cloud_”
+I’m [Alberto Roura](https://albertoroura.com/), a cloud computing _nerd_ from Spain specialised in all things “_APAC Cloud_”
 
 
 ### :cloud: Alibaba Cloud
-Alibaba Cloud awarded me as MVP in 2018, 2019 & 2020, becoming eventually the **#1** MVP globally. Do you need help? I provide [Implementation/Consulting services](https://albertoroura.com/alibaba-cloud-consulting/). If you want to learn how to start deploying in China or need a hand on using Alibaba Cloud, I can help with general consulting, cloud migrations, solutions architecting, health checks and custom reporting.
+Alibaba Cloud awarded me as MVP in 2018, 2019 & 2020, becoming eventually the **#1** MVP globally. Do you need help? I provide [Implementation/Consulting services](https://albertoroura.com/alibaba-cloud-consulting/).
+
+If you want to learn how to start deploying in China, APAC region or need a hand on using Alibaba Cloud, Tencent Cloud, AWS or Huawei Cloud, I can help with general consulting, cloud migrations, solutions architecting, DevOps services, health checks and custom reporting.
 
 
 ### :thought_balloon: Social Media
